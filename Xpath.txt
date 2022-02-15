@@ -1,0 +1,25 @@
+*****Facebook Login Page*****
+
+//input[@placeholder="Email address or phone number"] 
+//input[@placeholder="Password"]
+//button[text()="Log In"]
+//a[contains(text(),"Create a Page")]
+//a[contains(text(),"Forgotten password")]
+//img[@alt="Facebook"]
+
+*****Facebook Create New Account Page*****
+
+//input[@name="firstname"]
+//input[@name="lastname"]
+//input[@name="reg_email__"]
+//input[@name="reg_passwd__"]
+//select[@id="day"]
+//select[@id="month"]
+//select[@id="year"]
+//label[contains(text(),"Female")]
+//label[contains(text(),"Male")]
+//label[contains(text(),"Custom")]
+//button[@name="websubmit"]
+//a[@id="terms-link"]
+//a[@id="privacy-link"]
+//a[@id="cookie-use-link"]
