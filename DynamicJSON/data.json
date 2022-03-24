@@ -1,0 +1,23 @@
+{
+	"firstName": "Vicky",
+	"lastName": "Bhatia",
+	"address": [
+		{
+			"city": "Noida",
+			"state": "Uttar Pradesh",
+			"pincode": 201301
+			
+		},
+		{
+			"city": "abc",
+			"state": "Himachal Pradesh",
+			"pincode": 123456
+		},
+		{
+			"state": " Pradesh",
+			"pincode": 1256
+		}
+		
+	],
+	"fruits": ["Apple","Mango","Lichi"]
+}
