@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="5" passed="5">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="7236" started-at="2022-03-24T11:02:05 IST" finished-at="2022-03-24T11:02:12 IST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="7236" started-at="2022-03-24T11:02:05 IST" finished-at="2022-03-24T11:02:12 IST">
+      <class name="practice.Test_Requests">
+        <test-method status="PASS" signature="test_Delete()[pri:0, instance:practice.Test_Requests@528931cf]" name="test_Delete" duration-ms="2478" started-at="2022-03-24T11:02:05 IST" finished-at="2022-03-24T11:02:07 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_Delete -->
+        <test-method status="PASS" signature="test_Get()[pri:0, instance:practice.Test_Requests@528931cf]" name="test_Get" duration-ms="2169" started-at="2022-03-24T11:02:07 IST" finished-at="2022-03-24T11:02:10 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_Get -->
+        <test-method status="PASS" signature="test_Patch()[pri:0, instance:practice.Test_Requests@528931cf]" name="test_Patch" duration-ms="862" started-at="2022-03-24T11:02:10 IST" finished-at="2022-03-24T11:02:10 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_Patch -->
+        <test-method status="PASS" signature="test_Post()[pri:0, instance:practice.Test_Requests@528931cf]" name="test_Post" duration-ms="849" started-at="2022-03-24T11:02:10 IST" finished-at="2022-03-24T11:02:11 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_Post -->
+        <test-method status="PASS" signature="test_Put()[pri:0, instance:practice.Test_Requests@528931cf]" name="test_Put" duration-ms="850" started-at="2022-03-24T11:02:11 IST" finished-at="2022-03-24T11:02:12 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_Put -->
+      </class> <!-- practice.Test_Requests -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
