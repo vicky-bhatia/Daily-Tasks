@@ -1,0 +1,2 @@
+more_id: "#h_sub_menu"
+weather_xpath: "//a[text()=\"WEATHER\"]"
