@@ -1,0 +1,16 @@
+appUrl: https://www.google.com
+projectName: Yaml Data Reader
+credentials:
+    child1:
+        child2:
+            child3: demo
+    username: sakshamvarshney
+    password: pass@123
+checkboxSelect: 
+   bmw: "#bmwcheck"
+   benz: "#benzcheck"
+   honda: "#hondacheck"
+parent: 
+   child1: "#bmwcheck"
+   child2: "#benzcheck"
+   child3: "#hondacheck"
