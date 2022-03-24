@@ -1,7 +1,13 @@
 radioButton: 
-   bmw: "#bmwradio"
-   benz: "#benzradio"
-   honda: "#hondaradio"
+   bmw: 
+      cssSelector: "#bmwradio"
+      xpath: "//input[@id='bmwradio']"
+   benz: 
+      cssSelector: "#benzradio"
+      xpath: "//input[@id='benzradio']"
+   honda: 
+      cssSelector: "#hondaradio"
+      xpath: "//input[@id='hondaradio']"
 selectClass: 
    carSelect: "#carselect"
    bmw: "option[value='bmw']"

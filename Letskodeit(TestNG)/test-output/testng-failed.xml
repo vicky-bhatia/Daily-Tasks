@@ -5,7 +5,7 @@
     <classes>
       <class name="pack1.MainClass">
         <methods>
-          <include name="test"/>
+          <include name="testSwitchTab"/>
           <include name="setUp"/>
         </methods>
       </class> <!-- pack1.MainClass -->
